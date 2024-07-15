@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "vanilla-copper-plus",
+	"version": "${version}",
+	"name": "Vanilla Copper Plus",
+	"description": "This is a mod that adds more functionality to copper that are as vanilla as possible!",
+	"authors": [
+		"xentric925yt"
+	],
+	"contact": {
+		"homepage": "https://www.youtube.com/@xentric925yt9",
+		"sources": "https://github.com/Xentric925/VanillaCopperPlus"
+	},
+	"license": "MIT-license",
+	"icon": "assets/vanilla-copper-plus/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.xentric925yt.vanillacopperplus.VanillaCopperPlus"
+		],
+		"client": [
+			"net.xentric925yt.vanillacopperplus.VanillaCopperPlusClient"
+		],
+		"fabric-datagen": [
+			"net.xentric925yt.vanillacopperplus.VanillaCopperPlusDataGenerator"
+		]
+	},
+	"mixins": [
+		"vanilla-copper-plus.mixins.json",
+		{
+			"config": "vanilla-copper-plus.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
