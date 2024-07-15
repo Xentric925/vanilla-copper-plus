@@ -5,11 +5,11 @@
 	"name": "Vanilla Copper Plus",
 	"description": "This is a mod that adds more functionality to copper that are as vanilla as possible!",
 	"authors": [
-		"xentric925yt"
+		"Xentric925YT"
 	],
 	"contact": {
 		"homepage": "https://www.youtube.com/@xentric925yt9",
-		"sources": "https://github.com/Xentric925/VanillaCopperPlus"
+		"sources": "https://github.com/Xentric925/vanilla-copper-plus"
 	},
 	"license": "MIT-license",
 	"icon": "assets/vanilla-copper-plus/icon.png",
