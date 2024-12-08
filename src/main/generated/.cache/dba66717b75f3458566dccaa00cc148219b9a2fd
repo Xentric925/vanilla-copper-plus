@@ -1,0 +1,19 @@
+// 1.21	2024-11-06T16:29:21.2744417	Vanilla Copper Plus/Recipes
+1bf7676f8cca9822b05762940e1e412f74acd475 data\vanilla-copper-plus\recipe\weathered_copper_wheel.json
+8bec8af10d26dc2917686e31fc98975b73600652 data\vanilla-copper-plus\recipe\exposed_copper_generator.json
+6435c7b5a66bf52c940eb2d0d360563299cae07a data\vanilla-copper-plus\advancement\recipes\redstone\weathered_copper_wheel.json
+59e059beca88a6121e32bdec8805fc75404112cd data\vanilla-copper-plus\recipe\vinegar.json
+02b591c83dbd731fd24661a631f96e20c73f84a3 data\vanilla-copper-plus\advancement\recipes\redstone\oxidized_copper_generator.json
+0a2db42c848a80dd454058e3b00abb9134dc2e89 data\vanilla-copper-plus\advancement\recipes\redstone\oxidized_copper_wheel.json
+1282ab583812d6240594a1c832cbe277c0d71aae data\vanilla-copper-plus\recipe\oxidized_copper_wheel.json
+47430c0eb37c449bcbd75cd520f99074a844b93c data\vanilla-copper-plus\advancement\recipes\redstone\copper_generator.json
+9e7d0c3959d7d04b2fdd59f3600982e1f048a159 data\vanilla-copper-plus\advancement\recipes\redstone\exposed_copper_generator.json
+8e30062d371186cc12ac68b374673fce5230ff6e data\vanilla-copper-plus\advancement\recipes\redstone\copper_wheel.json
+24e4f4c8e3dc62b69d961fb2d739d13f1cd203ed data\vanilla-copper-plus\advancement\recipes\redstone\weathered_copper_generator.json
+be89c2835dda46b1717e8e691adb34306ed19424 data\vanilla-copper-plus\advancement\recipes\food\vinegar.json
+164b347a3e0d3186d34f7edea4fb1c4c5ff012d2 data\vanilla-copper-plus\recipe\weathered_copper_generator.json
+28ad4ce96b99ee901d69543857fcedf60369f82b data\vanilla-copper-plus\recipe\copper_generator.json
+427154e44d99b768b9bc367f61bcfa1bb51cf2a3 data\vanilla-copper-plus\advancement\recipes\redstone\exposed_copper_wheel.json
+41c6fb4dbb964373483cbcb7fbb1e44fd16123ae data\vanilla-copper-plus\recipe\oxidized_copper_generator.json
+b8b8edc38d6aca518f0fdf46f451d1807552f3e8 data\vanilla-copper-plus\recipe\copper_wheel.json
+1efc5bc52d4ee56a7a0cd21e24e1fc2cadeebcda data\vanilla-copper-plus\recipe\exposed_copper_wheel.json

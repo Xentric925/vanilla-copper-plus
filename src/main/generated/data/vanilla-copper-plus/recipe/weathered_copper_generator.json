@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": {
+      "item": "minecraft:weathered_chiseled_copper"
+    },
+    "q": {
+      "item": "minecraft:quartz"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "rqr",
+    "qcq",
+    "rqr"
+  ],
+  "result": {
+    "count": 1,
+    "id": "vanilla-copper-plus:weathered_copper_generator"
+  }
+}
