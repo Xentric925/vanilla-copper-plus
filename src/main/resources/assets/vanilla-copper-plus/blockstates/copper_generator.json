@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "facing=down,overloaded=false": {
+      "model": "vanilla-copper-plus:block/copper_generator_vertical",
+      "x": 180
+    },
+    "facing=east,overloaded=false": {
+      "model": "vanilla-copper-plus:block/copper_generator",
+      "y": 90
+    },
+    "facing=north,overloaded=false": {
+      "model": "vanilla-copper-plus:block/copper_generator"
+    },
+    "facing=south,overloaded=false": {
+      "model": "vanilla-copper-plus:block/copper_generator",
+      "y": 180
+    },
+    "facing=up,overloaded=false": {
+      "model": "vanilla-copper-plus:block/copper_generator_vertical"
+    },
+    "facing=west,overloaded=false": {
+      "model": "vanilla-copper-plus:block/copper_generator",
+      "y": 270
+    },
+    "facing=down,overloaded=true": {
+      "model": "vanilla-copper-plus:block/copper_generator_vertical_lit",
+      "x": 180
+    },
+    "facing=east,overloaded=true": {
+      "model": "vanilla-copper-plus:block/copper_generator_lit",
+      "y": 90
+    },
+    "facing=north,overloaded=true": {
+      "model": "vanilla-copper-plus:block/copper_generator_lit"
+    },
+    "facing=south,overloaded=true": {
+      "model": "vanilla-copper-plus:block/copper_generator_lit",
+      "y": 180
+    },
+    "facing=up,overloaded=true": {
+      "model": "vanilla-copper-plus:block/copper_generator_vertical_lit"
+    },
+    "facing=west,overloaded=true": {
+      "model": "vanilla-copper-plus:block/copper_generator_lit",
+      "y": 270
+    }
+  }
+}

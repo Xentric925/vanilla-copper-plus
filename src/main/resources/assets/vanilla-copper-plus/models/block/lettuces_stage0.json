@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "vanilla-copper-plus:block/lettuces_stage0"
+  }
+}

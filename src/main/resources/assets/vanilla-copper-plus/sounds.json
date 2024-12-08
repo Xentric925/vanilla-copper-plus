@@ -1,0 +1,50 @@
+{
+	"entity.hamster.ambient": {
+		"sounds": [
+		  "vanilla-copper-plus:entity/hamster/idle1",
+		  "vanilla-copper-plus:entity/hamster/idle2",
+		  "vanilla-copper-plus:entity/hamster/idle3",
+		  "vanilla-copper-plus:entity/hamster/idle4",
+		  "vanilla-copper-plus:entity/hamster/idle5"
+		],
+		"subtitle": "vanilla-copper-plus.subtitles.hamster.ambient"
+	},
+	"entity.hamster.hurt": {
+		"sounds": [
+		  "vanilla-copper-plus:entity/hamster/hurt1",
+		  "vanilla-copper-plus:entity/hamster/hurt2",
+		  "vanilla-copper-plus:entity/hamster/hurt3",
+		  "vanilla-copper-plus:entity/hamster/hurt4",
+		  "vanilla-copper-plus:entity/hamster/hurt5"
+		],
+		"subtitle": "vanilla-copper-plus.subtitles.hamster.hurt"
+	},
+	"entity.hamster.death": {
+		"sounds": [
+		  "vanilla-copper-plus:entity/hamster/death1",
+		  "vanilla-copper-plus:entity/hamster/death2",
+		  "vanilla-copper-plus:entity/hamster/death3",
+		  "vanilla-copper-plus:entity/hamster/death4",
+		  "vanilla-copper-plus:entity/hamster/death5"
+		],
+		"subtitle": "vanilla-copper-plus.subtitles.hamster.death"
+	},
+	"entity.hamster.sleep": {
+		"sounds": [
+		  "vanilla-copper-plus:entity/hamster/sleep1",
+		  "vanilla-copper-plus:entity/hamster/sleep2",
+		  "vanilla-copper-plus:entity/hamster/sleep3",
+		  "vanilla-copper-plus:entity/hamster/sleep4"
+		],
+		"subtitle": "vanilla-copper-plus.subtitles.hamster.sleep"
+	},
+	"entity.hamster.beg": {
+		"sounds": [
+		  "vanilla-copper-plus:entity/hamster/standing1",
+		  "vanilla-copper-plus:entity/hamster/standing2",
+		  "vanilla-copper-plus:entity/hamster/standing3",
+		  "vanilla-copper-plus:entity/hamster/standing4"
+		],
+		"subtitle": "vanilla-copper-plus.subtitles.hamster.beg"
+	}
+}

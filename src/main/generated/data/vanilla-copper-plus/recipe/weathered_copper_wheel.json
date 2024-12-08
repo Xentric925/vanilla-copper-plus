@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": {
+      "item": "minecraft:weathered_cut_copper"
+    },
+    "i": {
+      "item": "minecraft:copper_ingot"
+    },
+    "s": {
+      "item": "minecraft:weathered_cut_copper_slab"
+    }
+  },
+  "pattern": [
+    "isi",
+    "c c"
+  ],
+  "result": {
+    "count": 1,
+    "id": "vanilla-copper-plus:weathered_copper_wheel"
+  }
+}

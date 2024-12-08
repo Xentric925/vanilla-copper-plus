@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=ceiling,facing=east": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=south": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=east": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "y": 90
+    },
+    "face=floor,facing=north": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel"
+    },
+    "face=floor,facing=south": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "y": 270
+    },
+    "face=wall,facing=east": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=north": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "x": 90
+    },
+    "face=wall,facing=south": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "vanilla-copper-plus:block/oxidized_copper_wheel",
+      "x": 90,
+      "y": 270
+    }
+  },"render_type": "cutout"
+}

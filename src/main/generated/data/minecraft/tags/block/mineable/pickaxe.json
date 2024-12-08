@@ -1,0 +1,21 @@
+{
+  "values": [
+    "vanilla-copper-plus:vinegar_cauldron",
+    "vanilla-copper-plus:copper_generator",
+    "vanilla-copper-plus:exposed_copper_generator",
+    "vanilla-copper-plus:weathered_copper_generator",
+    "vanilla-copper-plus:oxidized_copper_generator",
+    "vanilla-copper-plus:waxed_copper_generator",
+    "vanilla-copper-plus:waxed_exposed_copper_generator",
+    "vanilla-copper-plus:waxed_weathered_copper_generator",
+    "vanilla-copper-plus:waxed_oxidized_copper_generator",
+    "vanilla-copper-plus:copper_wheel",
+    "vanilla-copper-plus:exposed_copper_wheel",
+    "vanilla-copper-plus:weathered_copper_wheel",
+    "vanilla-copper-plus:oxidized_copper_wheel",
+    "vanilla-copper-plus:waxed_copper_wheel",
+    "vanilla-copper-plus:waxed_exposed_copper_wheel",
+    "vanilla-copper-plus:waxed_weathered_copper_wheel",
+    "vanilla-copper-plus:waxed_oxidized_copper_wheel"
+  ]
+}

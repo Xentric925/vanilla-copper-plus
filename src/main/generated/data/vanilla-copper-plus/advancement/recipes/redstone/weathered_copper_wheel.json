@@ -1,0 +1,54 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_copper_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "vanilla-copper-plus:weathered_copper_wheel"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_weathered_cut_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:weathered_cut_copper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_weathered_cut_copper_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:weathered_cut_copper_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_weathered_cut_copper",
+      "has_weathered_cut_copper_slab",
+      "has_copper_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vanilla-copper-plus:weathered_copper_wheel"
+    ]
+  }
+}
